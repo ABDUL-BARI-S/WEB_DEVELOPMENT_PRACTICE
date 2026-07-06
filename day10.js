@@ -61,8 +61,8 @@
 // console.log(`Number of vowels: ${count}`);
 
 
-let secretNumber = Math.ceil(Math.random() * 100) + 1;
-console.log(secretNumber)
+// let secretNumber = Math.ceil(Math.random() * 100) + 1;
+// console.log(secretNumber)
 // let guess = 0;
 // let attempts = 0;
 
